@@ -1,0 +1,76 @@
+.sub_heading{
+    text-align: center;
+    color: #24B14B;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding-top: 200px;
+}
+.main_heading{
+    text-align: center;
+    color: #606367;
+    font-size: 45px;
+    font-weight: 400;
+}
+.product .box_container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(16rem,1fr));
+    padding: 60px;
+    margin: 40px;
+    grid-gap: 30px;
+}
+.product .box_container .box{
+    padding: 10px;
+    grid-gap: 70px;
+    background-color: #ffff;
+    border-radius: .5rem;
+    box-shadow: #24B14B;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+.box img{
+    width: 300px;
+    height: 180px;
+    padding: 5px;
+    margin: 6px;
+}
+.box p{
+    font-size: 10px;
+    color: #24B14B;
+    text-align: justify;
+
+}
+.box .khd{
+    font-size: 12px;
+    color: #161616;
+    text-align: justify;
+}
+.box h6{
+    text-align: justify;
+}
+.box .moq{
+    color: #606367;
+    font-weight: 300;
+}
+.wp{
+    height: 20px;
+    width: 65px;
+    border: 1px solid white ;
+    font-size: 2px;
+    font-weight: 200;
+    border-radius: 7px;
+    color: #ffff;
+    background-color: #24B14B;
+    margin-right: 90px;
+}
+.en{
+    height: 20px;
+    width: 65px;
+    font-size: 2px;
+    font-weight: 200;
+    border: 1px solid white ;
+    border-radius: 7px;
+    color: #ffff;
+    background-color: #61BDFF;  
+}

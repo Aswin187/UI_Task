@@ -1,0 +1,50 @@
+.enq{
+    background-color: #383838;
+    height: 250px;
+    padding: 30px;
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 30px;
+
+}
+.enq h2{
+    font-size: 25px;
+    font-weight: 600;
+    color: #FAFAFA;
+    margin: 20px;
+    text-align: justify;
+}
+.form{
+    text-align: justify;
+}
+.txt{
+  font-size: 18px;
+  font-weight: 300;
+  color: #FAFAFA;
+  padding: 20px;
+}
+.box{
+    text-align: center;
+    border: 1px solid #bee9ca;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+.box_text{
+    border: 1px solid #bee9ca;
+    border-radius: 8px;
+    width: 25%;
+    height: 60px;
+    margin-top: 8px;
+}
+.btn_sub{
+    font-size: 15px;
+    font-weight: 500;
+    width: 130px;
+    height: 40px;
+    background-color: #ffff;
+    color: #24B14B;
+    border: solid white 0px;
+    border-radius: 15px;
+    margin-left: 365px;
+}
